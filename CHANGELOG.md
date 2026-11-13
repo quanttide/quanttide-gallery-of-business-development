@@ -12,4 +12,6 @@
 
 ### 新增
 
+- 收录量潮商务拓展档案（`quanttide-tech/qtdata/`、`qtclass/`、`qtcloud/`）：业务线档案与量潮数据报价、谈判规则，自 quanttide-profile-of-business-development 迁入
+
 - 仓库初始化：README、CHANGELOG 与许可
