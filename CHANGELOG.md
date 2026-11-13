@@ -10,6 +10,9 @@
 
 ## [Unreleased]
 
+### 变更
+- `quanttide-tech/qtdata/negotiation.md` 参考条目改指现行路径：订单邮件工作流已随 quanttide-connect 迁至其 `docs/gallery`
+
 ### 新增
 
 - 收录量潮商务拓展档案（`quanttide-tech/qtdata/`、`qtclass/`、`qtcloud/`）：业务线档案与量潮数据报价、谈判规则，自 quanttide-profile-of-business-development 迁入

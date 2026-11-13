@@ -43,5 +43,5 @@
 
 ## 参考
 
-- 订单邮件工作流 `quanttide-connect/data/profile/quanttide-tech/qtdata/email.md`；
+- 订单邮件工作流 `quanttide-connect/docs/gallery/quanttide-tech/qtdata/email.md`；
 - 报价与定价规则见 [quotation.md](quotation.md)，商业模式见 [index.md](index.md)。
