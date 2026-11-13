@@ -71,4 +71,4 @@
 
 ### 参考
 
-- 商务日志 `data/journal/qtcloud/2026-08-17.md`；产品研发日志 `default/2026-08-16.md`
+- 商务日志 `data/journal/default/2026-08-17.md`；产品研发日志 `default/2026-08-16.md`
